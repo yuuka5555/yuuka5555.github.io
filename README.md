@@ -1,1 +1,1 @@
-my persinal website
+my personal website
