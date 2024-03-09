@@ -23,14 +23,13 @@ email: zyoujia19@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   一個簡單的個人網站，紀錄一些事情
 domain: yuuka5555.github.io
-baseurl: "/yuuka5555/" # the subpath of your site, e.g. /blog
+#baseurl: "/yuuka5555" # the subpath of your site, e.g. /blog
 url: "https://yuuka5555.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yuuka935555
 github_username:  yuuka5555
 
 # Build settings
 theme: minima
-nightMode: true
 plugins:
   - jekyll-feed
 

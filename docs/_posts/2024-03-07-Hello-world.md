@@ -12,4 +12,4 @@ categories: jekyll update
 - 更新內容: ~~雖然感覺我會懶的更新~~，但post應該放些課外的學習記錄吧
 - 希望未來這裡能有些有意義的東西
 - btw今天是我最喜歡的三月七
-![3/7](../assets/images/march_seventh.jpg)
+![3/7](../assets/images/37.jpg)
