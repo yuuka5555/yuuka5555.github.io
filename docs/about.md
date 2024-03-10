@@ -1,7 +1,15 @@
 ---
-layout: page
+layout: about
 title: About
-permalink: /about/
+description: Some information about Yuuka
 ---
 
-一個努力變強中的NCU CSIE student
+# contact
+- - -
+github: <https://github.com/yuuka5555>
+
+twitter: <https://twitter.com/yuuka935555>
+
+gmail: zyoujia19@gmail.com
+
+[back](./)
